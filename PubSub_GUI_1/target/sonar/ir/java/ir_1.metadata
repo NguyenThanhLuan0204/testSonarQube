@@ -1,0 +1,2 @@
+org.example.Main#main([Ljava/lang/String;)V
+javax.swing.SwingUtilities#invokeLater(Ljava/lang/Runnable;)V
